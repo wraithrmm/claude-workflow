@@ -6,5 +6,6 @@
     "name": "Richard Mann"
   },
   "license": "PolyForm-Shield-1.0.0",
-  "keywords": ["workflow", "project-management", "tasks", "prp", "planning", "ai-playground"]
+  "keywords": ["workflow", "project-management", "tasks", "prp", "planning", "ai-playground"],
+  "repository": "https://github.com/wraithrmm/claude-workflow"
 }

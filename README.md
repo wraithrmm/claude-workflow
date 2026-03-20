@@ -19,19 +19,22 @@ Provides a structured workflow for planning, implementing, and tracking developm
 ### Option 1: Load for current session
 
 ```bash
-claude --plugin-dir /path/to/claude-workflow
+git clone https://github.com/wraithrmm/claude-workflow.git
+claude --plugin-dir ./claude-workflow
 ```
 
 ### Option 2: Install at user scope (all projects)
 
 ```bash
-claude plugin install --plugin-dir /path/to/claude-workflow --scope user
+git clone https://github.com/wraithrmm/claude-workflow.git
+claude plugin install --plugin-dir ./claude-workflow --scope user
 ```
 
 ### Option 3: Install at project scope (shared with team)
 
 ```bash
-claude plugin install --plugin-dir /path/to/claude-workflow --scope project
+git clone https://github.com/wraithrmm/claude-workflow.git
+claude plugin install --plugin-dir ./claude-workflow --scope project
 ```
 
 ## Commands
