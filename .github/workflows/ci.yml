@@ -18,5 +18,5 @@ jobs:
           sudo /tmp/bats/install.sh /usr/local
 
       - name: Run tests
-        run: bats tests/
+        run: bats plugins/*/tests/
         working-directory: .

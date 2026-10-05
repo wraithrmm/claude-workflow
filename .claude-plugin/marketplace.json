@@ -1,0 +1,19 @@
+{
+  "name": "wraithrmm",
+  "description": "Richard Mann's Claude Code plugins: PRP project workflow and terminal mods.",
+  "owner": {
+    "name": "Richard Mann"
+  },
+  "plugins": [
+    {
+      "name": "workflow",
+      "source": "./plugins/workflow",
+      "description": "Project and task management workflow for Claude Code. PRP-based planning, ai-playground tracking, and structured development lifecycle."
+    },
+    {
+      "name": "branch-beacon",
+      "source": "./plugins/branch-beacon",
+      "description": "Shows the checked-out git branch and repo name as a coloured chip above the prompt."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "branch-beacon",
+  "description": "Shows the checked-out git branch and repo name as a coloured chip above the prompt, so you can tell terminals apart at a glance.",
+  "author": {
+    "name": "Richard Mann"
+  },
+  "license": "PolyForm-Shield-1.0.0",
+  "repository": "https://github.com/wraithrmm/claude-workflow",
+  "types": "./types/index.d.ts"
+}

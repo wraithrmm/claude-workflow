@@ -1,0 +1,17 @@
+{
+  "name": "workflow",
+  "description": "Project and task management workflow for Claude Code. PRP-based planning, ai-playground tracking, and structured development lifecycle.",
+  "author": {
+    "name": "Richard Mann"
+  },
+  "license": "PolyForm-Shield-1.0.0",
+  "keywords": [
+    "workflow",
+    "project-management",
+    "tasks",
+    "prp",
+    "planning",
+    "ai-playground"
+  ],
+  "repository": "https://github.com/wraithrmm/claude-workflow"
+}
